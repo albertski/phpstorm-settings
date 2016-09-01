@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d84421c1-c6bd-4411-b71f-4e8d941e1496" name="xmd8" url="http://xmd8.xeno-pantheon.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="450907d8-9c8a-4020-9cde-296cab16d30b" name="Interactions" url="http://interactions.xeno-pantheon.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
