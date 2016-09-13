@@ -7,6 +7,9 @@
       <webServer id="450907d8-9c8a-4020-9cde-296cab16d30b" name="Interactions" url="http://interactions.xeno-pantheon.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="968a9f91-4f46-44f2-9182-3b44139c1fa2" name="soinc.mag7.dev" url="http://soinc.mag7.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
