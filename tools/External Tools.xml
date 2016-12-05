@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Drush CR" description="Keep calm and flush cache!" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="drush" />
+      <option name="PARAMETERS" value="@soinc.mag7.dev cr" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
