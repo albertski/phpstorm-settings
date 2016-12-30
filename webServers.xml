@@ -10,6 +10,9 @@
       <webServer id="968a9f91-4f46-44f2-9182-3b44139c1fa2" name="soinc.mag7.dev" url="http://soinc.mag7.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="18d81cf8-9080-4dd0-ad8f-9bb1960744c4" name="Bootstrap Paragraphs" url="http://bp.xeno-pantheon.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
