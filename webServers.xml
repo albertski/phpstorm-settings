@@ -13,6 +13,9 @@
       <webServer id="18d81cf8-9080-4dd0-ad8f-9bb1960744c4" name="Bootstrap Paragraphs" url="http://bp.xeno-pantheon.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ee953bc1-e3c3-4811-a04c-07f73868b2a7" name="Execadv" url="http://execadv.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
