@@ -16,6 +16,9 @@
       <webServer id="ee953bc1-e3c3-4811-a04c-07f73868b2a7" name="Execadv" url="http://execadv.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f4913896-f97a-426b-bf9a-836c281bfe1d" name="FineVines" url="http://finevines.mag7.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
