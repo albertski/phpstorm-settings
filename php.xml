@@ -263,8 +263,8 @@
             <configuration_option name="xdebug.collect_params" value="0" />
             <configuration_option name="xdebug.collect_return" value="0" />
             <configuration_option name="xdebug.collect_vars" value="0" />
-            <configuration_option name="xdebug.coverage_enable" value="0" />
-            <configuration_option name="xdebug.default_enable" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
             <configuration_option name="xdebug.dump.COOKIE" value="" />
             <configuration_option name="xdebug.dump.ENV" value="" />
             <configuration_option name="xdebug.dump.FILES" value="" />
@@ -298,7 +298,7 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="192.168.88.77" />
             <configuration_option name="xdebug.remote_log" value="/var/www/finevines/xdebug.log" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
